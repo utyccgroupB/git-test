@@ -1,0 +1,59 @@
+
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"> 
+
+
+ <channel> 
+
+
+ <title>Reported Road Hazards</title> 
+
+
+ <link/> 
+
+
+ <description>Road hazards reported to the city</description> 
+
+
+ <item> 
+
+
+ <title>Traffic Light</title> 
+
+
+ <description>Traffic light on north west corner out</description> 
+
+
+ <geo:lat>43.64887</geo:lat> 
+
+
+ <geo:long>-79.385362</geo:long> 
+
+
+ </item> 
+
+
+ <item> 
+
+
+ <title>Traffic Signage</title> 
+
+
+ <description>Stop sign missing</description> 
+
+
+ <geo:lat>43.646870</geo:lat> 
+
+
+ <geo:long>-79.383342</geo:long> 
+
+
+ </item> 
+
+
+</channel> 
+
+
+</rss> 

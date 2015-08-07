@@ -1,0 +1,95 @@
+
+<!DOCTYPE html> 
+
+
+<html> 
+
+
+<head> 
+
+
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" /> 
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/> 
+
+
+<title>Google Maps JavaScript API v3 Example: KmlLayer GeoRSS</title> 
+
+
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+
+
+<style type="text/css"> 
+
+
+#map_canvas{ 
+
+
+ width:500px; 
+
+
+ height: 350px; 
+
+
+} 
+
+
+</style> 
+
+
+<script type="text/javascript"> 
+
+
+function initialize() { 
+
+
+ var myLatlng = new google.maps.LatLng(49.496675,-102.65625); 
+
+
+ var myOptions = { 
+
+
+ zoom: 4, 
+
+
+ center: myLatlng, 
+
+
+ mapTypeId: google.maps.MapTypeId.ROADMAP 
+
+
+ } 
+
+
+  
+
+
+ var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions); 
+
+
+ var georssLayer = new google.maps.KmlLayer('http://localhost/UTYCC3/GeoRSS.xml'); 
+
+
+ georssLayer.setMap(map); 
+
+
+} 
+
+
+</script> 
+
+
+</head> 
+
+
+<body onload="initialize()"> 
+
+
+ <div id="map_canvas"></div> 
+
+
+</body> 
+
+
+</html> 

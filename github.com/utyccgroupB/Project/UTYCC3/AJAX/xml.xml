@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Edited by XMLSpy® -->
+<CATALOG>
+ <CD>
+  <JOB>Telent</JOB>
+  <ARTIST>Lee Bo Young</ARTIST>
+  <HOMETOWN>In Cheon</HOMETOWN>
+  <BODY>168cm, 48kg</BODY>
+  <BIRTH>1979. 1. 12</BIRTH>
+ </CD>
+ <CD>
+  <JOB>Telent</JOB>
+  <ARTIST>Um Ji Won</ARTIST>
+  <HOMETOWN>DaeGu</HOMETOWN>
+  <BODY>170cm, 48kg</BODY>
+  <BIRTH>1977. 12. 25</BIRTH>
+ </CD>
+ <CD>
+  <JOB>Telent</JOB>
+  <ARTIST>Lee Min Jeong</ARTIST>
+  <HOMETOWN>Seoul</HOMETOWN>
+  <BODY>167cm, 49kg</BODY>
+  <BIRTH>1982. 2. 16</BIRTH>
+ </CD>
+ <CD>
+  <JOB>Telent</JOB>
+  <ARTIST>O Ji Eun</ARTIST>
+  <HOMETOWN>Seoul</HOMETOWN>
+  <BODY>165cm</BODY>
+  <BIRTH>1990</BIRTH>
+ </CD>
+ <CD>
+  <JOB>Singer</JOB>
+  <ARTIST>Su Ji</ARTIST>
+  <HOMETOWN>GwangJu</HOMETOWN>
+  <BODY>168cm, 47kg</BODY>
+  <BIRTH>1994. 10. 10</BIRTH>
+ </CD>
+ <CD>
+  <JOB>Singer</JOB>
+  <ARTIST>I U</ARTIST>
+  <HOMETOWN>Seoul</HOMETOWN>
+  <BODY>161.8cm, 44kg</BODY>
+  <BIRTH>1993. 5. 16</BIRTH>
+ </CD>
+</CATALOG>
